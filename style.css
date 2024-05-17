@@ -1,5 +1,6 @@
 :root{ /*declaração de variáveis; PASSANDO O MOUSE EM CIMA DAS CORES VOCÊ CONSEGUE MUDÁ-LAS*/
-    --cor-de-fundo:	#F08080; 
+    --cor-de-fundo:	#DAA520
+    ; 
     --verde: #6FFF57; 
     --branco: #FFFFFF; 
     --botao-ativo: #3A375E; 
